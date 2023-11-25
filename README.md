@@ -16,3 +16,12 @@ para instalar use o comando "npm install json-server"
 
 em seguida use o comando "npx  json-server --watch dados.json"
 
+
+isso é para logar:
+
+"nome": "Hugo",
+"email": "teste@hugo.com",
+"senha": "SenhaHugo",
+"id": 1
+
+    
